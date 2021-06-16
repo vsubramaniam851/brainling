@@ -1,1 +1,3 @@
 # brainling
+
+Work done in MIT Infolab Summer 2020-Summer 2021. Included evaluating multiple parsers in order to find the best one to apply to a dataset of movies (shown in parsing folder) in order to parse the movies and use them for downstream processing. Applied the dataset to Noun-Verb decoding of sEEG neural patterns associated with words. Small model shown in NVClass folder which uses neural patterns associated with words obtained from particular regions of the brain of children and labels the POS of the words. 
